@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Importing Queries from Git or SQL Files"
 nav_order: 4
 ---
