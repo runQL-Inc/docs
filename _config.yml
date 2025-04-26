@@ -1,5 +1,6 @@
 title: runQL Documentation
 description: runQL Documentation!
 theme: just-the-docs
-
+logo: "/assets/img/runQL-logo.png"
+favicon_ico: "https://runql.com/assets/favicon/favicon.ico"
 url: https://runql-inc.github.io/docs/
