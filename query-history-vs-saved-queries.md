@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Query History vs. Saved Queries"
 nav_order: 2
 ---
