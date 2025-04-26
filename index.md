@@ -1,5 +1,5 @@
 ---
-title: "Welcome to runQL Documentation"
+title: "Home"
 layout: home
 description: "Centralized query management —- secure, scalable, and simple."
 ---
