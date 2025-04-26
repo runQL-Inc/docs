@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: home
-description: "Centralized query management —- secure, scalable, and simple."
+description: "Centralized query management — secure, scalable, and simple."
 ---
 
 # Welcome to runQL Help 👋
