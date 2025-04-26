@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Adding Database Connections"
 nav_order: 6
 ---
