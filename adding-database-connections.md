@@ -8,7 +8,7 @@ nav_order: 6
 
 Here’s how to connect different database types in runQL:
 
-#### BigQuery
+## BigQuery
 
 To connect to BigQuery, follow these steps:
 
@@ -21,7 +21,7 @@ To connect to BigQuery, follow these steps:
    - Upload the JSON key file when prompted.
 4. **Test Connection**: Click **Test Connection** to ensure that runQL can successfully connect to your BigQuery instance.
 
-#### Databricks
+## Databricks
 
 To connect to Databricks, follow these steps:
 
@@ -34,7 +34,7 @@ To connect to Databricks, follow these steps:
    - Input the generated access username, token, hostname, and path.
 4. **Test Connection**: Click **Test Connection** to verify the connection.
 
-#### MSSQL
+## MSSQL
 
 To connect to MSSQL, follow these steps:
 
@@ -47,7 +47,7 @@ To connect to MSSQL, follow these steps:
    - Provide the username and password.
 4. **Test Connection**: Click **Test Connection** to ensure that runQL can successfully connect to your MSSQL database.
 
-#### MongoDB
+## MongoDB
 
 To connect to MongoDB, follow these steps:
 
@@ -59,7 +59,7 @@ To connect to MongoDB, follow these steps:
 3. **Specify Database (Optional)**: If you want to connect to a specific database within MongoDB, specify it in the configuration.
 4. **Test Connection**: Click **Test Connection** to verify the connection.
 
-#### MySQL
+## MySQL
 
 To connect to MySQL, follow these steps:
 
@@ -74,7 +74,7 @@ To connect to MySQL, follow these steps:
 5. **Enable SSH (Optional)**: If your MySQL server requires SSH, you may submit the SSH Host, Port, Username, and Password instead.
 6. **Test Connection**: Click **Test Connection** to ensure that runQL can successfully connect to your MySQL database.
 
-#### Neo4j
+## Neo4j
 
 To connect to Neo4j, follow these steps:
 
@@ -87,7 +87,7 @@ To connect to Neo4j, follow these steps:
    - Provide the username and password.
 4. **Test Connection**: Click **Test Connection** to ensure that runQL can successfully connect to your MySQL database.
 
-#### Oracle
+## Oracle
 
 To connect to Oracle, follow these steps:
 
@@ -101,7 +101,7 @@ To connect to Oracle, follow these steps:
 4. **Enable SSL (Optional)**: If your Oracle server requires SSL, configure the SSL settings accordingly.
 5. **Test Connection**: Click **Test Connection** to ensure that runQL can successfully connect to your Oracle database.
 
-#### Postgres
+## Postgres
 
 To connect to Postgres, follow these steps:
 
@@ -114,7 +114,7 @@ To connect to Postgres, follow these steps:
 3. **Enable SSL (Optional)**: If your Postgres server requires SSL, ensure that the SSL option is enabled and configure the necessary certificates.
 4. **Test Connection**: Click **Test Connection** to verify the connection.
 
-#### Redshift
+## Redshift
 
 To connect to Amazon Redshift, follow these steps:
 
@@ -127,7 +127,7 @@ To connect to Amazon Redshift, follow these steps:
 3. **Enable SSL (Optional)**: If your Redshift cluster requires SSL, ensure that the SSL option is enabled and configure the necessary certificates.
 4. **Test Connection**: Click **Test Connection** to ensure that runQL can successfully connect to your Redshift cluster.
 
-#### Snowflake
+## Snowflake
 
 To connect to Snowflake, follow these steps:
 
@@ -141,7 +141,7 @@ To connect to Snowflake, follow these steps:
 4. **Enable SSL (Optional)**: Snowflake connections are encrypted by default, but ensure that any additional SSL settings are configured if required.
 5. **Test Connection**: Click **Test Connection** to verify the connection.
 
-#### Trino
+## Trino
 
 To connect to Trino, follow these steps:
 
