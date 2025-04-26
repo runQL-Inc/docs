@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Certified Queries"
 nav_order: 3
 ---
