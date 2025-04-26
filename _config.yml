@@ -1,8 +1,5 @@
-title: runQL Docs
-description: runQL Docs Theme!
-theme: runQL
+title: runQL Documentation
+description: runQL Documentation!
+theme: just-the-docs
 
-url: https://runql.com
-
-aux_links:
-  runQL Home: https://runql.com
+url: https://runql-inc.github.io/docs/
