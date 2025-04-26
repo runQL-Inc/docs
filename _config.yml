@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: runQL Docs
+description: runQL Docs Theme!
+theme: runQL
 
-url: https://just-the-docs.github.io
+url: https://runql.com
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  runQL Home: https://runql.com
